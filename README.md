@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Cai</h1>
-<h3 align="center">A passionate full-stack developer from California</h3>
+<h3 align="center">A passionate Software Engineer from California</h3>
 
 - 🔭 I’m currently working on [building my portfolio.](https://www.cairoflores.com/)
 
