@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Cai</h1>
 <h3 align="center">A passionate Software Engineer from California</h3>
 
-- 🔭 I’m currently working on [building my portfolio.](https://www.cairoflores.com/)
+- 🔭 I’m currently working on my computer science and cognitive science undergraduate degree
 
 - 🌱 I’m currently learning **Typescript and c++**
 
